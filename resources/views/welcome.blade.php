@@ -81,6 +81,9 @@
                 <div class="title m-b-md">
                     Info 4 You
                 </div>
+				<div>
+                    By: <h1>Nahid Chowdhury</h1>
+                </div>
             </div>
         </div>
     </body>
